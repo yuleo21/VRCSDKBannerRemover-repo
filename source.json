@@ -1,16 +1,27 @@
 {
-  "name": "yuleo21's Packages",
-  "id": "com.yuleo21.packages",
-  "url": "https://yuleo21.github.io/VRCSDKBannerRemover-listing",
-  "author":{
-    "name":"yuleo21"
-  },
-  "packages": [
-    {
-      "name": "com.yuleo21.VRCSDKBannerRemover",
-      "displayName": "VRCSDK Banner Remover",
-      "description": "Remove the banner from the top of the VRCSDK panel.",
-      "url": "https://github.com/yuleo21/VRCSDKBannerRemover.git"
-    }
-  ]
+    "name":"21tools",
+    "id":"com.yuleo21.vrcsdkbannerremover-repo",
+    "url":"https://yuleo21.github.io/VRCSDKBannerRemover-repo/index.json",
+    "author":{
+        "email":"developer@vrchat.com",
+        "name":"VRChat",
+        "url":"https://hello.vrchat.com"
+    },
+    "description":"Repository of VRCSDK Banner Remover by yuleo21.",
+    "infoLink":{
+        "url":"http://github.com/yuleo21/VRCSDKBannerRemover-repo",
+        "text":"View on GitHub"
+    },
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+        "yuleo21/VRCSDKBannerRemover"
+    ],
+    "packages":[
+        {
+            "name":"com.yuleo21.VRCSDKBannerRemover",
+            "releases":[
+                "https://github.com/yuleo21/VRCSDKBannerRemover/releases/download/1.0.0/-1.0.0.zip",
+            ]
+        }
+    ]
 }
