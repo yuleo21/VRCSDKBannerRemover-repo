@@ -1,28 +1,21 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"21tools",
+    "id":"com.github.yuleo21.vrcsdkbannerremover",
+    "url":"https://yuleo21.github.io/vrcsdkbannerremover-repo/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
-    },
-    "description":"Example listing of VRChat packages",
-    "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
-    },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
+        "name":"yuleo21",
+        "url":"https://github.com/yuleo21"
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
+            "name":"com.yuleo21.VRCSDKBannerRemover",
+            "displayName": "VRCSDK Banner Remover",
+            "description": "Remove the banner from the top of the VRCSDK panel.",
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "url": "https://github.com/yuleo21/VRCSDKBannerRemover/releases/download/1.0.0/com.yuleo21.VRCSDKBannerRemover-1.0.0.zip"
+                }
+      ]
         }
     ]
-}
+    }
