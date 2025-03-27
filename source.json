@@ -2,7 +2,9 @@
   "name": "yuleo21's Packages",
   "id": "com.yuleo21.packages",
   "url": "https://yuleo21.github.io/VRCSDKBannerRemover-listing",
-  "author": "yuleo21",
+  "author":{
+    "yuleo21"
+  },
   "packages": [
     {
       "name": "com.yuleo21.VRCSDKBannerRemover",
