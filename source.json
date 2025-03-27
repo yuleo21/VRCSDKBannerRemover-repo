@@ -3,22 +3,23 @@
     "id":"com.yuleo21.vrcsdkbannerremover-repo",
     "url":"https://yuleo21.github.io/VRCSDKBannerRemover-repo/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "name":"yuleo21",
+        "url":"https://github.com/yuleo21"
     },
-    "description":"Repository of VRCSDK Banner Remover by yuleo21.",
+    "description":"Repositories by yuleo21.",
     "infoLink":{
         "url":"http://github.com/yuleo21/VRCSDKBannerRemover-repo",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png",
     "githubRepos":[
         "yuleo21/VRCSDKBannerRemover"
     ],
     "packages":[
         {
             "name":"com.yuleo21.VRCSDKBannerRemover",
+            "releases":[
+                "https://github.com/yuleo21/VRCSDKBannerRemover/releases/download/1.0.0/-1.0.0.zip",
+            ]
         }
     ]
 }
