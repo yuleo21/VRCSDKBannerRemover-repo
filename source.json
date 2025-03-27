@@ -19,9 +19,6 @@
     "packages":[
         {
             "name":"com.yuleo21.VRCSDKBannerRemover",
-            "releases":[
-                "https://github.com/yuleo21/VRCSDKBannerRemover/releases/download/1.0.0/-1.0.0.zip",
-            ]
         }
     ]
 }
