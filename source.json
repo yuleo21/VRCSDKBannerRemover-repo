@@ -1,17 +1,18 @@
 {
-    "name":"21tools",
-    "id":"com.yuleo21.vrcsdkbannerremover-repo",
-    "url":"https://yuleo21.github.io/VRCSDKBannerRemover-repo/index.json",
-    "author":{
-        "name":"yuleo21",
-        "url":"https://github.com/yuleo21"
+    "name": "21tools",
+    "id": "com.yuleo21.vrcsdkbannerremover-repo",
+    "url": "https://yuleo21.github.io/VRCSDKBannerRemover-repo/index.json",
+    "author": {
+        "name": "yuleo21",
+        "url": "https://github.com/yuleo21"
     },
-    "description":"Repositories by yuleo21.",
-    "infoLink":{
-        "url":"https://github.com/yuleo21/VRCSDKBannerRemover",
-        "text":"View on GitHub"
+    "description": "Repositories by yuleo21.",
+    "infoLink": {
+        "url": "https://github.com/yuleo21/VRCSDKBannerRemover",
+        "text": "View on GitHub"
     },
-    "githubRepos":[
-        "yuleo21/VRCSDKBannerRemover"
-    ],
+    "githubRepos": [
+        "yuleo21/VRCSDKBannerRemover",
+        "yuleo21/testVPM"
+    ]
 }
